@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\KR\ArrayString\bin\Debug\net6.0\ArrayString.exe
+C:\Users\Alex\Desktop\KR\ArrayString\bin\Debug\net6.0\ArrayString.deps.json
+C:\Users\Alex\Desktop\KR\ArrayString\bin\Debug\net6.0\ArrayString.runtimeconfig.json
+C:\Users\Alex\Desktop\KR\ArrayString\bin\Debug\net6.0\ArrayString.dll
+C:\Users\Alex\Desktop\KR\ArrayString\bin\Debug\net6.0\ref\ArrayString.dll
+C:\Users\Alex\Desktop\KR\ArrayString\bin\Debug\net6.0\ArrayString.pdb
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.AssemblyInfo.cs
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.dll
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ref\ArrayString.dll
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.pdb
+C:\Users\Alex\Desktop\KR\ArrayString\obj\Debug\net6.0\ArrayString.genruntimeconfig.cache
